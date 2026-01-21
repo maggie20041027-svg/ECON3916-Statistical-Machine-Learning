@@ -1,4 +1,4 @@
-# The Cost of Living Crisis: A Data-Driven Analysis
+# 📊 The Cost of Living Crisis: A Data-Driven Analysis
 
 ## Overview
 The Consumer Price Index (CPI) is the most commonly cited measure of inflation in the United States. While it effectively tracks changes in the *average* cost of living, it often fails to reflect the experiences of specific demographic groups. Students, particularly those living in high-cost metropolitan areas, face a consumption basket that differs substantially from the national average.
